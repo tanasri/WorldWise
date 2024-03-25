@@ -69,6 +69,7 @@ function Map() {
             <Popup>
               <span>
                 <FlagemojiToPNG flag={city.emoji} />
+                <p>{city.cityName}</p>
               </span>
             </Popup>
           </Marker>

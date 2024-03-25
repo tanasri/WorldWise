@@ -25,64 +25,40 @@
       "id": 17806751
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 98443197
-    },
-    {
-      "cityName": "Winterthur",
-      "country": "Switzerland",
-      "emoji": "🇨🇭",
-      "date": "2024-03-25T05:10:39.525Z",
+      "cityName": "Oirschot",
+      "country": "Netherlands (Kingdom of the)",
+      "emoji": "🇳🇱",
+      "date": "2024-03-25T09:43:31.654Z",
       "notes": "",
       "position": {
-        "lat": "47.48751300895658",
-        "lng": "8.679199218750002"
-      },
-      "id": 98443198
-    },
-    {
-      "cityName": "Pegnitz",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2024-03-25T05:11:11.880Z",
-      "notes": "",
-      "position": {
-        "lat": "49.76707407366792",
-        "lng": "11.5576171875"
+        "lat": "51.549751017014195",
+        "lng": "5.3173828125"
       },
       "id": 98443199
     },
     {
-      "cityName": "Bienservida",
+      "cityName": "Jorquera",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2024-03-25T05:13:58.609Z",
+      "date": "2024-03-25T09:44:16.077Z",
       "notes": "",
       "position": {
-        "lat": "38.51378825951165",
-        "lng": "-2.6147460937500004"
+        "lat": "39.18117526158749",
+        "lng": "-1.56005859375"
       },
       "id": 98443200
     },
     {
-      "cityName": "Tamza",
-      "country": "Algeria",
-      "emoji": "🇩🇿",
-      "date": "2024-03-25T05:14:09.236Z",
+      "cityName": "Soldatskoye",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2024-03-25T09:49:29.230Z",
       "notes": "",
       "position": {
-        "lat": "35.24561909420681",
-        "lng": "6.921386718750001"
+        "lat": "51.998410382390325",
+        "lng": "35.68359375000001"
       },
-      "id": 98443201
+      "id": 98443202
     }
   ]
 }
